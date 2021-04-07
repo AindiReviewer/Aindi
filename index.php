@@ -374,7 +374,7 @@
               <img src="assets/img/portfolio/Games/_01_BubbleBobble/icon.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/Games/_01_BubbleBobble/icon.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Bubble Bobble"><i class="bx bx-zoom-in"></i></a>
-                <a href="content-details.php?game_id=0" target="_blank" title="More Details"><i class="bx bx-caret-right" onclick="doSomething(0)"></i></a>
+                <a href="content-details.html?game_id=0" target="_blank" title="More Details"><i class="bx bx-caret-right" onclick="doSomething(0)"></i></a>
               </div>
             </div>
           </div>
